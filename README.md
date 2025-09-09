@@ -1,19 +1,19 @@
-# ChatGPT 中文版：国内直连镜像网站合集（支持GPT-4、GPT-4o）
+# ChatGPT 中文版：国内直连镜像网站合集（支持GPT-5、GPT-4o）
 
-> 更新：2025/06/21  
+> 更新：2025/09/12 
 
 国内能用的 **ChatGPT 中文版**，**无需翻墙**，**支持 GPT-4、4o、o1 及其他中文功能**    
 
 本指南提供了详尽的 **ChatGPT 中文版使用建议**，涵盖国内可用的 **ChatGPT 镜像网站**推荐和详细使用教程，帮助您快速掌握 ChatGPT 的使用。
 
-**ChatGPT 中文版入口：[https://talk.lanjing.pro](https://talk.lanjing.pro)**   
+**ChatGPT 中文版入口：[https://gpt.lanjing.pro](https://gpt.lanjing.pro)**   
 **ChatGPT 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://talk.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 AI 对话体验。
+[**ChatGPT 中文版**](https://gpt.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文版本，专为中文用户设计，提供更流畅、更精准的 AI 对话体验。
 
 相较于官方版本，**ChatGPT 中文版**在以下方面更适合国内用户：
 
